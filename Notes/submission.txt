@@ -3,3 +3,20 @@ https://github.com/GeorgeFair/Final_Project_CIT
 
 GitHub Repo
 https://georgefair.github.io/Final_Project_CIT/
+
+
+You made it! Final project week!
+
+You have accomplished a lot this 
+semester, be sure to finish strong by 
+creating a final project to be proud of.
+
+Thoroughly review the CIT 21200 Final 
+Project Specification, and make sure to complete 
+development and delivery of this by the due date. 
+The theme is Web Design as a Tool For Expression, the 
+topic is broad but you should make sure to use professional 
+design techniques and integrate everything that is listed in 
+the rubric.
+
+Good luck!
