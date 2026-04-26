@@ -59,6 +59,7 @@ header {
   background-color: white;
   border-radius: 5px;
   border: #0D0D0D 2px solid;
+  margin-top: auto;
 }
 
 .card a:hover {
