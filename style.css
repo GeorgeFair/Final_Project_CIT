@@ -72,3 +72,14 @@ header {
   border-radius: 10px;
   margin-bottom: 10px;
 }
+
+@media (max-width: 768px) {
+  .card_container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nav_bar {
+    flex-direction: column;
+  }
+}
